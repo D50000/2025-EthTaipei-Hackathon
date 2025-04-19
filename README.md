@@ -11,10 +11,10 @@ ETHGlobal hackathons enable you to experiment with cutting edge web3 technologie
 
 - 🏊 **World Pool Prize**
   _Split with up to 34 teams (capped at $74 per team)_: 🎖️ 🏅 👏  
-   ![](https://github.com/D50000/2025-EthTaipei-Hackathon/blob/main/archive/result.jpg)
+  ![](https://github.com/D50000/2025-EthTaipei-Hackathon/blob/main/archive/result.jpg)
   ![](https://github.com/D50000/2025-EthTaipei-Hackathon/blob/main/archive/result2.jpg)
 
-- [Proof of Participation](https://polygonscan.com/nft/0x115cc61a1980295e43f813adec68769c50057088/1133)  
+- [Proof of Participation](https://collectors.poap.xyz/token/7339904)  
   ![](https://github.com/D50000/2025-EthTaipei-Hackathon/blob/main/archive/poap.jpg)
 
 - Certificate  
@@ -22,9 +22,8 @@ ETHGlobal hackathons enable you to experiment with cutting edge web3 technologie
 
 ## Project: [Intent-Pay](https://ethglobal.com/showcase/intent-pay-bgxdh)
 
-![](https://github.com/D50000/2025-EthTaipei-Hackathon/blob/main/archive/intent-pay.jpg)  
-A gasless wallet enabling USDC across chains with **intent-based trading** in World App.
-
+![](https://github.com/D50000/2025-EthTaipei-Hackathon/blob/main/archive/logo.jpg)  
+A gasless wallet enabling USDC across chains with **intent-based trading** in World App.  
 ![](https://github.com/D50000/2025-EthTaipei-Hackathon/blob/main/archive/demo1.jpg)  
 ![](https://github.com/D50000/2025-EthTaipei-Hackathon/blob/main/archive/demo2.jpg)  
 ![](https://github.com/D50000/2025-EthTaipei-Hackathon/blob/main/archive/demo3.jpg)
