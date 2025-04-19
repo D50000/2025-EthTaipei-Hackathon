@@ -20,25 +20,18 @@ ETHGlobal hackathons enable you to experiment with cutting edge web3 technologie
 - Certificate  
   ![](https://github.com/D50000/2025-EthTaipei-Hackathon/blob/main/archive/certificate.jpg)
 
-## Project: [Chronos Share](https://taikai.network/ethtaipei/hackathons/hackathon-2024/projects/clu3zbtd20irlw201bzqhn5c8/idea)
+## Project: [Intent-Pay](https://ethglobal.com/showcase/intent-pay-bgxdh)
 
-![](https://github.com/D50000/2024-EthTaipei-Hackathon/blob/main/archive/Chronos_Share.jpg)  
-**Chronos-Share meaning time as service**, our platform transforms spare moments into valuable assets, creating a unique marketplace for **time trading**.
+![](https://github.com/D50000/2025-EthTaipei-Hackathon/blob/main/archive/intent-pay.jpg)  
+A gasless wallet enabling USDC across chains with **intent-based trading** in World App.
 
-![](https://github.com/D50000/2024-EthTaipei-Hackathon/blob/main/archive/role.jpg)  
-![](https://github.com/D50000/2024-EthTaipei-Hackathon/blob/main/archive/scenario.jpg)  
-![](https://github.com/D50000/2024-EthTaipei-Hackathon/blob/main/archive/trade.jpg)  
-![](https://github.com/D50000/2024-EthTaipei-Hackathon/blob/main/archive/dataFlow.jpg)
+![](https://github.com/D50000/2025-EthTaipei-Hackathon/blob/main/archive/demo1.jpg)  
+![](https://github.com/D50000/2025-EthTaipei-Hackathon/blob/main/archive/demo2.jpg)  
+![](https://github.com/D50000/2025-EthTaipei-Hackathon/blob/main/archive/demo3.jpg)
 
-- [Live Demo](https://chronos-share.vercel.app/)
-- [Briefing](https://www.youtube.com/watch?v=-986bKyWH8k)
-- [Source Code](https://github.com/Chronos-Share/chronos-share)  
-  Tech Stack:
-  - [Mint Club](https://mint.club/token/arbitrum/KUKO)
-  - NFT
-  - [Circle](https://developers.circle.com/w3s/docs/user-controlled-initialization-and-wallet-creation-quickstart)
-  - Next.js
-  - prisma
-  - daisyui
-  - tailwindcss
-  - CI/CD with github & vercel.app
+- [Live Demo](https://intent-pay.vercel.app/)
+- [Source Code](https://github.com/IntentPay/intent-pay)
+- Tech Stack:
+  - Circle Integration
+  - 1inch Integration
+  - World App Platform
